@@ -18,7 +18,7 @@ function App() {
       <HelloWorld/>
       <SayMyName nome="Isaque"/>
       <Pessoa nome ='ISAQUE' idade='17'/>
-      <p>Soma : {somar(2,9)}</p>
+      <p>Soma : {somar(2,9)} </p>
     </div>
     )
     
